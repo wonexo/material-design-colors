@@ -4,7 +4,7 @@ This is a simple light weight CSS class composed of all the material colors from
 
 * Complete 19 color from Material Palette.
 
-* layers of 1 to 9 , inluding a1,a2,a4 and a7.
+* layers of 1 to 9 , inluding a1, a2, a4 and a7.
 
 * Color Layer is 5 by Default, so you can simply call "red" instead of red-5
 
@@ -22,7 +22,7 @@ Include copy the file to your CSS folder and include this to your <HTML> head Ta
 <link rel="stylesheet" href="css/MDC.min.css">
 </head>
 ``` 
-## Add the Classes 
+## How to add the Classes 
 
 It make use of "colorname-layernumber" 
 
@@ -32,7 +32,7 @@ It make use of "colorname-layernumber"
 <div class="red-6"></div>
 <div class="l-green-a1"></div>
 ```
-## Color names 
+## List of all the Colors 
 
 * red
 * pink
