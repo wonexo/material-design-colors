@@ -10,33 +10,6 @@ This is a simple light weight CSS class composed of all the material colors from
 
 * Minified CSS available.
 
-```
-<div class="red-6"></div>
-<div class="l-green-a1"></div>
-```
-## Color names 
-
-* red
-* pink
-* purple
-* dp-purple (deep purple
-* indigo
-* blue
-* l-blue (light blue)
-* cyan
-* teal
-* green
-* l-green (light green)
-* lime
-* yellow
-* amber
-* orange
-* dp-orange (deep orange)
-* brown
-* grey
-* blue-grey
-
-
 * You can check out the [Material Pallete Here](https://material.io/color)
 
 ## How to use MDC in your project
