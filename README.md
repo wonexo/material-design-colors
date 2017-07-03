@@ -28,7 +28,7 @@ It make use of "colorname-layernumber"
 
 * Example
 
-```
+```HTML
 <div class="red-6"></div>
 <div class="l-green-a1"></div>
 ```
