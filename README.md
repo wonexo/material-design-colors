@@ -54,4 +54,4 @@ It make use of "colorname-layernumber"
 * grey
 * blue-grey
 
-Enjoy :+1: :simple_smile: :punch:
+Enjoy :+1: :smile: :punch:
