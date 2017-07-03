@@ -2,7 +2,7 @@
 
 This is a simple light weight CSS class composed of all the material colors from Google mainly for background colors only.
 
-* Complete 19 color from Material Palette.
+* Complete 19 colors from Material Palette.
 
 * layers of 1 to 9 , inluding a1, a2, a4 and a7.
 
