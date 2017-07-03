@@ -10,7 +10,7 @@ This is a simple light weight CSS class composed of all the material colors from
 
 * Minified CSS available.
 
-* You can check out the [Material Pallete Here](https://material.io/color)
+* You can check out the [Material Pallete Here](https://material.io/color) :wink:
 
 ## How to use MDC in your project
 
@@ -54,3 +54,4 @@ It make use of "colorname-layernumber"
 * grey
 * blue-grey
 
+Enjoy :+1: :simple_smile: :punch:
