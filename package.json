@@ -1,0 +1,29 @@
+{
+    "name": "mdc",
+    "filename": "mdc.min.css",
+    "version": "1.0",
+    "description": "collection of material color pallete",
+    // "homepage": "http://daneden.github.io/animate.css",
+    "keywords": [
+        "colors",
+        "css"
+    ],
+    "autoupdate": {
+        "source": "git",
+        "target": "git://github.com/wonexo/material-design-colors-MDC.git",
+        "fileMap": [{
+            "basePath": "",
+            "files": [
+                "*.css"
+            ]
+        }]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wonexo/material-design-colors-MDC"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Segun Olumide"
+    }
+}
