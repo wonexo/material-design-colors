@@ -62,5 +62,5 @@ For those who contributed to the MDC can add the following to the ![CONTRIBUTORS
 * Include your fullname name 
 * and you Username in form of a link
 
-[X] example
+[X]example
 > * Segun Olumide (![wonexo](./CONTRIBUTE.md))
