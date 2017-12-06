@@ -58,7 +58,7 @@ It make use of "colorname-layernumber"
 Enjoy :+1: :smile: :punch:
 
 ## CONTRIBUTORS.MD [![Lets Build](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-For those who contributed to the MDC can add the following to the ![CONTRIBUTORS.md](./CONTRIBUTORS.md) file
+For those who contributed to MDC,you can add the following to the ![CONTRIBUTORS.md](./CONTRIBUTORS.md) file
 * Include your fullname name 
 * and you Username in form of a link
 
