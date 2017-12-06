@@ -1,4 +1,5 @@
 # Material Design Color (MDC) 
+[<img src="http://io13-high-dpi.appspot.com/images/CSS3_Logo.svg" align="right" width="150" height="150">](https://www.w3schools.com/css/css3_intro.asp)
 
 This is a simple light weight CSS class composed of all the material colors from Google mainly for background colors only.
 
@@ -55,3 +56,11 @@ It make use of "colorname-layernumber"
 * blue-grey
 
 Enjoy :+1: :smile: :punch:
+
+## CONTRIBUTORS.MD [![Lets Build](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+For those who contributed to the MDC can add the following to the ![CONTRIBUTORS.md](./CONTRIBUTORS.md) file
+* Include your fullname name 
+* and you Username in form of a link
+
+[X] example
+> * Segun Olumide (![wonexo](./CONTRIBUTE.md))
