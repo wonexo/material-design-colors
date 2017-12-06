@@ -1,5 +1,5 @@
-# Material Design Color (MDC) 
 [<img src="http://io13-high-dpi.appspot.com/images/CSS3_Logo.svg" align="right" width="150" height="150">](https://www.w3schools.com/css/css3_intro.asp)
+# Material Design Color (MDC) 
 
 This is a simple light weight CSS class composed of all the material colors from Google mainly for background colors only.
 
