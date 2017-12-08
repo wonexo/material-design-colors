@@ -3,3 +3,4 @@
 
  * Segun Olumide ( https://github.com/wonexo )
  * Oyedele Hammed Horlah ( https://github.com/Horlahcoded )
+ * Akintayo Shedrack ( https://github.com/hacktivist123 )
